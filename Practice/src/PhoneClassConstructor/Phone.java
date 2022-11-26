@@ -1,9 +1,9 @@
 package PhoneClassConstructor;
 
 public class Phone {
-    public String model;
-    public String number;
-    public double weight;
+    private String model;
+    private String number;
+    private double weight;
 
     public String callerName;
 
